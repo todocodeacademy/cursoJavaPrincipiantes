@@ -20,7 +20,7 @@ Se sugiere intentar resolver los ejercicios por tu cuenta antes de revisar las s
 
 - Versión anterior del curso en Youtube: [Ver aquí](https://www.youtube.com/playlist?list=PLQxX2eiEaqbwxYrMUJ6gRz82mLzUeeJy9)
 - Versión GRATUITA con CERTIFICADO en la academia: [Ver aquí](https://todocodeacademy.com/course/java-para-principiantes/)
-- Roadman (ruta de estudio) completo para aprender Java: [Ver aquí](https://todocodeacademy.com/roadmap-para-aprender-java-en-2024/)
+- Roadmap (ruta de estudio) completo para aprender Java: [Ver aquí](https://todocodeacademy.com/roadmap-para-aprender-java-en-2024/)
 
 ## Contribuciones
 
