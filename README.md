@@ -4,11 +4,6 @@ Todo el material es propiedad intelectual de la mencionada institución. En caso
 
 ![Image](https://todocodeacademy.com/wp-content/uploads/2020/12/cropped-LogoConSombras-sinfondo-166x38.png)
 
-## Índice de Clases y temario
-
-1.  [Clase 1](#ejercicio-1-título-del-ejercicio)
-    - [Ejercicio 2: Título del ejercicio](#ejercicio-2-título-del-ejercicio)
-
 
 ## ¿Cómo usar este repositorio?
 
